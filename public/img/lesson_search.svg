@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="149" height="149" viewBox="0 0 149 149">
+  <g id="lesson_search" transform="translate(-578 -1538)">
+    <circle id="lesson_search-2" data-name="lesson_search" cx="74.5" cy="74.5" r="74.5" transform="translate(578 1538)" fill="#009fd8"/>
+    <path id="Icon_awesome-search" data-name="Icon awesome-search" d="M51.672,45.3l-10.2-10.2a2.454,2.454,0,0,0-1.739-.716H38.063a21.273,21.273,0,1,0-3.684,3.684v1.668a2.454,2.454,0,0,0,.716,1.739l10.2,10.2a2.446,2.446,0,0,0,3.469,0l2.9-2.9A2.467,2.467,0,0,0,51.672,45.3ZM21.283,34.38a13.1,13.1,0,1,1,13.1-13.1A13.09,13.09,0,0,1,21.283,34.38Z" transform="translate(626 1586)" fill="#fff"/>
+  </g>
+</svg>
